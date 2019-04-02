@@ -1,0 +1,23 @@
+body{
+    font-size: 45px;
+    background: #F8F8F8;
+    color: black;
+}
+/*li {*/
+/*width: 15vw;*/
+/*height: 15vw;*/
+/*}*/
+/*.weui-icon-warn {*/
+    /**/
+/*}*/
+.bg-error{
+    height: 6vh;
+    font-size: 30px;
+    line-height: 6vh;
+}
+.listImage {
+    width: 15vw;
+    height: 15vw;
+    margin-top: 1.2vh;
+    background-size: contain;
+}
